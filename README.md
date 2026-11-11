@@ -3,7 +3,7 @@
 I create software and share projects.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fronczek&show_icons=true&theme=tokyonight" alt="GitHub stats" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=fronczek&show_icons=true&theme=tokyonight" alt="GitHub stats" width="420" />
 </div>
 
 ## About me
