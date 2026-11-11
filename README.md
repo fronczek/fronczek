@@ -1,6 +1,6 @@
 ### Hi, I'm Artur 👋
 
-**Senior Infrastructure & Systems Engineer** · [HBF Management](https://hbf.pl) · Katowice, Poland
+**Senior Infrastructure & Systems Engineer** · [HBF MANAGEMENT](https://hbf.pl) · Katowice, Poland
 
 I build and run infrastructure that is meant to behave predictably — from small company networks to enterprise platforms and large-scale migrations. 25+ years in IT, with a strong bias towards infrastructure as code, repeatable deployments, monitoring and documentation the next person can actually use.
 
@@ -13,7 +13,7 @@ I build and run infrastructure that is meant to behave predictably — from smal
 
 | | |
 |---|---|
-| **Networking** | TCP/IP · routing · **BGP** · VPN · **IPv6** · **MikroTik** · troubleshooting where systems meet the network |
+| **Networking** | TCP/IP · routing · BGP · VPN · IPv6 · MikroTik · troubleshooting where systems meet the network |
 | **Systems** | Linux · Windows Server · Active Directory · Proxmox VE |
 | **Automation & IaC** | Ansible · Terraform · Python · Bash · CI/CD |
 | **Cloud & containers** | AWS · Azure · OCI · Docker · Kubernetes · OpenShift |
