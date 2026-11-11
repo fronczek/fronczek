@@ -1,6 +1,6 @@
 ### Hi, I'm Artur 👋
 
-**Senior Infrastructure & Systems Engineer** · [HBF Consulting](https://hbf.pl) · Katowice, Poland
+**Senior Infrastructure & Systems Engineer** · [HBF Management](https://hbf.pl) · Katowice, Poland
 
 I build and run infrastructure that is meant to behave predictably — from small company networks to enterprise platforms and large-scale migrations. 25+ years in IT, with a strong bias towards infrastructure as code, repeatable deployments, monitoring and documentation the next person can actually use.
 
@@ -27,6 +27,6 @@ Practical, reusable pieces from day-to-day operations work: Ansible roles and pl
 
 [![Website](https://img.shields.io/badge/fronczek.pl-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://fronczek.pl/en.php)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/artur-fronczek/)
-[![HBF Consulting](https://img.shields.io/badge/hbf.pl-1f2937?style=flat-square)](https://hbf.pl)
+[![HBF Management](https://img.shields.io/badge/hbf.pl-1f2937?style=flat-square)](https://hbf.pl)
 
 <sub>🇵🇱 Polish (native) · 🇬🇧 English (professional working proficiency)</sub>
