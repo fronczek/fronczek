@@ -13,10 +13,10 @@ I build and run infrastructure that is meant to behave predictably — from smal
 
 | | |
 |---|---|
+| **Networking** | TCP/IP · routing · **BGP** · VPN · **IPv6** · **MikroTik** · troubleshooting where systems meet the network |
 | **Systems** | Linux · Windows Server · Active Directory · Proxmox VE |
 | **Automation & IaC** | Ansible · Terraform · Python · Bash · CI/CD |
 | **Cloud & containers** | AWS · Azure · OCI · Docker · Kubernetes · OpenShift |
-| **Networking** | TCP/IP · routing · BGP · VPN · IPv6 · MikroTik |
 | **Operations & security** | Monitoring (Zabbix, Elastic) · Backup / DR · IAM / PIM / PAM · PCI-DSS · SOC 2 · ISO 27001 |
 
 #### What's on this profile
